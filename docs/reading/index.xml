@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Reading policy | Intermediate Public &amp; Nonprofit Financial Management</title>
-    <link>/reading/</link>
-      <atom:link href="/reading/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evalsp20.classes.andrewheiss.com/reading/</link>
+      <atom:link href="https://evalsp20.classes.andrewheiss.com/reading/index.xml" rel="self" type="application/rss+xml" />
     <description>Reading policy</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Tue, 01 Dec 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>/img/social-image.png</url>
+      <url>https://evalsp20.classes.andrewheiss.com/img/social-image.png</url>
       <title>Reading policy</title>
-      <link>/reading/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/reading/</link>
     </image>
     
     <item>
       <title>Communicating Findings</title>
-      <link>/reading/07-reading/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/reading/07-reading/</link>
       <pubDate>Tue, 01 Dec 2020 00:00:00 +0000</pubDate>
-      <guid>/reading/07-reading/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/reading/07-reading/</guid>
       <description>
 
 
@@ -37,9 +37,9 @@
     
     <item>
       <title>Analysis of Variance (ANOVA) and Simple Regression</title>
-      <link>/reading/06-reading/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/reading/06-reading/</link>
       <pubDate>Tue, 24 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/reading/06-reading/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/reading/06-reading/</guid>
       <description>
 
 
@@ -60,9 +60,9 @@
     
     <item>
       <title>How to Test the Difference between Two Groups</title>
-      <link>/reading/05-reading/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/reading/05-reading/</link>
       <pubDate>Tue, 17 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/reading/05-reading/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/reading/05-reading/</guid>
       <description>
 
 
@@ -83,9 +83,9 @@
     
     <item>
       <title>Performance Dashboard in Governments</title>
-      <link>/reading/04-reading/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/reading/04-reading/</link>
       <pubDate>Tue, 10 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/reading/04-reading/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/reading/04-reading/</guid>
       <description>
 
 
@@ -106,9 +106,9 @@
     
     <item>
       <title>Understand the Process of Generalizing from a Random Sample to the Population from which it is drawn</title>
-      <link>/reading/03-reading/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/reading/03-reading/</link>
       <pubDate>Tue, 03 Nov 2020 00:00:00 +0000</pubDate>
-      <guid>/reading/03-reading/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/reading/03-reading/</guid>
       <description>
 
 
@@ -136,9 +136,9 @@
     
     <item>
       <title>How to Describe the Relationships between Two or More Variables</title>
-      <link>/reading/02-reading/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/reading/02-reading/</link>
       <pubDate>Tue, 27 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/reading/02-reading/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/reading/02-reading/</guid>
       <description>
 
 
@@ -159,16 +159,16 @@
     
     <item>
       <title>How to Effectively Describe Statistics in Both Graphical and Numerical Form</title>
-      <link>/reading/01-reading/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/reading/01-reading/</link>
       <pubDate>Tue, 20 Oct 2020 00:00:00 +0000</pubDate>
-      <guid>/reading/01-reading/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/reading/01-reading/</guid>
       <description>
 
 
 &lt;div id=&#34;required&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Required&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;The &lt;a href=&#34;/syllabus/&#34;&gt;syllabus&lt;/a&gt; and &lt;a href=&#34;/assignment/&#34;&gt;assignments&lt;/a&gt; pages for this class&lt;/li&gt;
+&lt;li&gt;The &lt;a href=&#34;https://evalsp20.classes.andrewheiss.com/syllabus/&#34;&gt;syllabus&lt;/a&gt; and &lt;a href=&#34;https://evalsp20.classes.andrewheiss.com/assignment/&#34;&gt;assignments&lt;/a&gt; pages for this class&lt;/li&gt;
 &lt;li&gt;&lt;i class=&#34;fas fa-book&#34;&gt;&lt;/i&gt; Chapter 5 in &lt;em&gt;Practical Research Methods for Nonprofit and Public Administrators&lt;/em&gt;&lt;span class=&#34;citation&#34;&gt;&lt;a href=&#34;#fn1&#34; class=&#34;footnote-ref&#34; id=&#34;fnref1&#34;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;

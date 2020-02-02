@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Class details | Intermediate Public &amp; Nonprofit Financial Management</title>
-    <link>/class/</link>
-      <atom:link href="/class/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evalsp20.classes.andrewheiss.com/class/</link>
+      <atom:link href="https://evalsp20.classes.andrewheiss.com/class/index.xml" rel="self" type="application/rss+xml" />
     <description>Class details</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>/img/social-image.png</url>
+      <url>https://evalsp20.classes.andrewheiss.com/img/social-image.png</url>
       <title>Class details</title>
-      <link>/class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/</link>
     </image>
     
     <item>
       <title>What is program evaluation? &#43; Introduction to R, RStudio, and the tidyverse</title>
-      <link>/class/01-class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/01-class/</link>
       <pubDate>Mon, 26 Aug 2019 00:00:00 +0000</pubDate>
-      <guid>/class/01-class/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/class/01-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -49,9 +49,9 @@
     
     <item>
       <title>Regression and inference</title>
-      <link>/class/02-class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/02-class/</link>
       <pubDate>Mon, 09 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/class/02-class/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/class/02-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -84,9 +84,9 @@
     
     <item>
       <title>Theories of change</title>
-      <link>/class/03-class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/03-class/</link>
       <pubDate>Mon, 16 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/class/03-class/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/class/03-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -119,9 +119,9 @@
     
     <item>
       <title>Counterfactuals and DAGs I</title>
-      <link>/class/04-class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/04-class/</link>
       <pubDate>Mon, 23 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/class/04-class/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/class/04-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -154,9 +154,9 @@
     
     <item>
       <title>Counterfactuals and DAGs II</title>
-      <link>/class/05-class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/05-class/</link>
       <pubDate>Mon, 30 Sep 2019 00:00:00 +0000</pubDate>
-      <guid>/class/05-class/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/class/05-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -189,9 +189,9 @@
     
     <item>
       <title>Threats to validity</title>
-      <link>/class/06-class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/06-class/</link>
       <pubDate>Mon, 07 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/class/06-class/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/class/06-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -224,9 +224,9 @@
     
     <item>
       <title>Randomization</title>
-      <link>/class/07-class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/07-class/</link>
       <pubDate>Mon, 14 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/class/07-class/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/class/07-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
@@ -259,9 +259,9 @@
     
     <item>
       <title>Diff-in-diff I</title>
-      <link>/class/08-class/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/class/08-class/</link>
       <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
-      <guid>/class/08-class/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/class/08-class/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;

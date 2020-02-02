@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Assignment details | Intermediate Public &amp; Nonprofit Financial Management</title>
-    <link>/assignment/</link>
-      <atom:link href="/assignment/index.xml" rel="self" type="application/rss+xml" />
+    <link>https://evalsp20.classes.andrewheiss.com/assignment/</link>
+      <atom:link href="https://evalsp20.classes.andrewheiss.com/assignment/index.xml" rel="self" type="application/rss+xml" />
     <description>Assignment details</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><lastBuildDate>Wed, 29 Apr 2020 00:00:00 +0000</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator>
     <image>
-      <url>/img/social-image.png</url>
+      <url>https://evalsp20.classes.andrewheiss.com/img/social-image.png</url>
       <title>Assignment details</title>
-      <link>/assignment/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/</link>
     </image>
     
     <item>
       <title>Code-through</title>
-      <link>/assignment/code-through/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/code-through/</link>
       <pubDate>Wed, 22 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/code-through/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/code-through/</guid>
       <description>
 
 
@@ -60,9 +60,9 @@
     
     <item>
       <title>Background and theory</title>
-      <link>/assignment/01-eval-background-theory/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/01-eval-background-theory/</link>
       <pubDate>Wed, 05 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/01-eval-background-theory/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/01-eval-background-theory/</guid>
       <description>
 
 
@@ -72,9 +72,9 @@
     
     <item>
       <title>Problem set 1</title>
-      <link>/assignment/01-problem-set/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/01-problem-set/</link>
       <pubDate>Wed, 22 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/01-problem-set/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/01-problem-set/</guid>
       <description>
 
 
@@ -84,16 +84,15 @@
     
     <item>
       <title>Final project</title>
-      <link>/assignment/final-project/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/final-project/</link>
       <pubDate>Wed, 29 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/final-project/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/final-project/</guid>
       <description>
 
 &lt;div id=&#34;TOC&#34;&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#resources&#34;&gt;Resources&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;#suggested-outline&#34;&gt;Suggested outline&lt;/a&gt;
-&lt;ul&gt;
+&lt;li&gt;&lt;a href=&#34;#suggested-outline&#34;&gt;Suggested outline&lt;/a&gt;&lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;#introduction&#34;&gt;Introduction&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#program-overview&#34;&gt;Program overview&lt;/a&gt;&lt;/li&gt;
 &lt;li&gt;&lt;a href=&#34;#program-theory-and-implementation&#34;&gt;Program theory and implementation&lt;/a&gt;&lt;/li&gt;
@@ -122,22 +121,22 @@
 &lt;p&gt;You can either run the analysis in RStudio locally on your computer (highly recommended(!!), since you won’t have to worry about keeping all your work on RStudio’s servers), or use an RStudio.cloud project. You can make a copy of this RStudio.cloud project—it doesn’t have anything in it, but I have preinstalled all the packages we’ve used over the course of the semester, so you don’t have to.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;a href=&#34;https://rstudio.cloud/spaces/26160/project/714408&#34;&gt;&lt;i class=&#34;fas fa-external-link-square-alt&#34;&gt;&lt;/i&gt; Empty RStudio.cloud project&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/files/final-project.zip&#34;&gt;&lt;i class=&#34;fas fa-file-archive&#34;&gt;&lt;/i&gt; Empty RStudio project you can download and unzip on your computer&lt;/a&gt; (doesn’t include any packages, since you’re responsible for installing those)&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evalsp20.classes.andrewheiss.com/files/final-project.zip&#34;&gt;&lt;i class=&#34;fas fa-file-archive&#34;&gt;&lt;/i&gt; Empty RStudio project you can download and unzip on your computer&lt;/a&gt; (doesn’t include any packages, since you’re responsible for installing those)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;div id=&#34;resources&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Resources&lt;/h2&gt;
 &lt;p&gt;Most importantly, &lt;strong&gt;do not hesitate&lt;/strong&gt; to work with classmates. You all must choose different programs, but you can work in groups of up to 4 people on your own projects. Also, &lt;strong&gt;absolutely do not hesitate&lt;/strong&gt; to ask me questions! I’m here to help!&lt;/p&gt;
 &lt;p&gt;You might find this evaluation (and its proposal) of a truancy program in the Provo School District in Utah helpful as an example for the first half of this assignment (program overview, theory, implementation, threats to validity, and outcomes). The PSD evaluation doesn’t have DAGs or fancy econometrics models like RCTs, diff-in-diff, RDD, IVs, or anything like that, so you can’t use it as an example of that part, but these should provide a good template for the program-specific sections. &lt;em&gt;This is longer than expected for this class&lt;/em&gt;. I provide suggested word counts in the outline below.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/files/psd-proposal-2011.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt; &lt;code&gt;psd-proposal-2011&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;a href=&#34;/files/psd-final-report-2012.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt; &lt;code&gt;psd-final-report-2012&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evalsp20.classes.andrewheiss.com/files/psd-proposal-2011.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt; &lt;code&gt;psd-proposal-2011&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evalsp20.classes.andrewheiss.com/files/psd-final-report-2012.pdf&#34;&gt;&lt;i class=&#34;fas fa-file-pdf&#34;&gt;&lt;/i&gt; &lt;code&gt;psd-final-report-2012&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;/div&gt;
 &lt;div id=&#34;suggested-outline&#34; class=&#34;section level2&#34;&gt;
 &lt;h2&gt;Suggested outline&lt;/h2&gt;
 &lt;p&gt;Here’s an outline of what you’ll need to do.&lt;a href=&#34;#fn2&#34; class=&#34;footnote-ref&#34; id=&#34;fnref2&#34;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; You can download this as an RMarkdown file and change the text if you want. I’ve also included this as an RMarkdown file in the empty RStudio.cloud project.&lt;/p&gt;
 &lt;ul&gt;
-&lt;li&gt;&lt;a href=&#34;/files/final-project/final-project-template.Rmd&#34;&gt;&lt;i class=&#34;fab fa-r-project&#34;&gt;&lt;/i&gt; &lt;code&gt;final-project-template.Rmd&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://evalsp20.classes.andrewheiss.com/files/final-project/final-project-template.Rmd&#34;&gt;&lt;i class=&#34;fab fa-r-project&#34;&gt;&lt;/i&gt; &lt;code&gt;final-project-template.Rmd&lt;/code&gt;&lt;/a&gt;&lt;/li&gt;
 &lt;/ul&gt;
 &lt;hr /&gt;
 &lt;div id=&#34;introduction&#34; class=&#34;section level3&#34;&gt;
@@ -231,9 +230,9 @@
     
     <item>
       <title>Measurement</title>
-      <link>/assignment/02-eval-measurement/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/02-eval-measurement/</link>
       <pubDate>Wed, 12 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/02-eval-measurement/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/02-eval-measurement/</guid>
       <description>
 
 
@@ -243,9 +242,9 @@
     
     <item>
       <title>Problem set 2</title>
-      <link>/assignment/02-problem-set/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/02-problem-set/</link>
       <pubDate>Wed, 29 Jan 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/02-problem-set/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/02-problem-set/</guid>
       <description>
 
 
@@ -255,9 +254,9 @@
     
     <item>
       <title>Problem set 3</title>
-      <link>/assignment/03-problem-set/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/03-problem-set/</link>
       <pubDate>Wed, 04 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/03-problem-set/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/03-problem-set/</guid>
       <description>
 
 
@@ -267,9 +266,9 @@
     
     <item>
       <title>Causal model</title>
-      <link>/assignment/03-eval-dag/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/03-eval-dag/</link>
       <pubDate>Wed, 19 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/03-eval-dag/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/03-eval-dag/</guid>
       <description>
 
 
@@ -279,9 +278,9 @@
     
     <item>
       <title>Problem set 4</title>
-      <link>/assignment/04-problem-set/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/04-problem-set/</link>
       <pubDate>Wed, 11 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/04-problem-set/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/04-problem-set/</guid>
       <description>
 
 
@@ -291,9 +290,9 @@
     
     <item>
       <title>Threats to validity</title>
-      <link>/assignment/04-eval-threats/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/04-eval-threats/</link>
       <pubDate>Wed, 26 Feb 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/04-eval-threats/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/04-eval-threats/</guid>
       <description>
 
 
@@ -303,9 +302,9 @@
     
     <item>
       <title>Problem set 5</title>
-      <link>/assignment/05-problem-set/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/05-problem-set/</link>
       <pubDate>Wed, 25 Mar 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/05-problem-set/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/05-problem-set/</guid>
       <description>
 
 
@@ -315,9 +314,9 @@
     
     <item>
       <title>Problem set 6</title>
-      <link>/assignment/06-problem-set/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/06-problem-set/</link>
       <pubDate>Wed, 01 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/06-problem-set/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/06-problem-set/</guid>
       <description>
 
 
@@ -327,9 +326,9 @@
     
     <item>
       <title>Problem set 7</title>
-      <link>/assignment/07-problem-set/</link>
+      <link>https://evalsp20.classes.andrewheiss.com/assignment/07-problem-set/</link>
       <pubDate>Wed, 08 Apr 2020 00:00:00 +0000</pubDate>
-      <guid>/assignment/07-problem-set/</guid>
+      <guid>https://evalsp20.classes.andrewheiss.com/assignment/07-problem-set/</guid>
       <description>
 
 
