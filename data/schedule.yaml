@@ -1,0 +1,39 @@
+lessons:
+  - title: '<span class="fake-header-table">Class topics</span>'
+    header: True
+
+  - title: '<i class="fas fa-university"></i> **What to Measure? How to Measure? How to Effectively Describe Statistics in Both Graphical and Numerical Form?**'
+    date: "October 20"
+    reading: "01-reading"
+    assignment: "01-problem-set"
+    class: "01-class"
+
+  - title: '<i class="fas fa-university"></i> **How to Describe the Relationships between Two or More Variables**'
+    date: "October 27"
+    reading: "02-reading"
+
+  - title: '<i class="fas fa-university"></i> **Understand the Process of Generalizing from a Random Sample to the Population from which it is drawn**'
+    date: "November 3"
+    reading: "03-reading"
+    assignment: "03-problem-set"
+
+  - title: '<i class="fas fa-university"></i> **Performance Dashboard in Governments**'
+    date: "November 10"
+    reading: "04-reading"
+
+  - title: '<i class="fas fa-university"></i> **How to Test the Difference between Two Groups**'
+    date: "November 17"
+    reading: "05-reading"
+    assignment: "02-problem-set"
+
+  - title: '<i class="fas fa-university"></i> **Analysis of Variance (ANOVA) and Simple Regression**'
+    date: "November 24"
+    reading: "06-reading"
+
+  - title: '<i class="fas fa-university"></i> **Communicating Findings**'
+    date: "December 1"
+    reading: "07-reading"
+    assignment: "01-eval-background-theory"
+
+  - title: '<i class="fas fa-university"></i> **Transforming and Delivering Your Ideas**'
+    date: "December 8"

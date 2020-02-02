@@ -1,0 +1,17 @@
+---
+title: "Performance Dashboard in Governments"
+linktitle: "4: Performance Dashboard in Governments"
+date: "2020-11-10"
+read_date: "2020-11-10"
+menu:
+  reading:
+    parent: Readings
+    weight: 4
+type: docs
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required
+
+- <i class="fas fa-book"></i> Chapter 1 in *Presenting Data Effectively* [@presenting-effectively]. This is available on Blackboard.

@@ -1,0 +1,17 @@
+---
+title: "Communicating Findings"
+linktitle: "7: Communicating Findings"
+date: "2020-12-01"
+read_date: "2020-12-01"
+menu:
+  reading:
+    parent: Readings
+    weight: 7
+type: docs
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required
+
+- <i class="fas fa-book"></i> Chapter 14 in *Practical Research Methods for Nonprofit and Public Administrators* [@stats-text]

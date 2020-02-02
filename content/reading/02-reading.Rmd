@@ -1,0 +1,17 @@
+---
+title: "How to Describe the Relationships between Two or More Variables"
+linktitle: "2: Relationships between Two or More Variables"
+date: "2020-10-27"
+read_date: "2020-10-27"
+menu:
+  reading:
+    parent: Readings
+    weight: 2
+type: docs
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required
+
+- <i class="fas fa-book"></i> Chapter 8 (pg 129-131) in *Practical Research Methods for Nonprofit and Public Administrators* [@stats-text]

@@ -1,0 +1,18 @@
+---
+title: "How to Effectively Describe Statistics in Both Graphical and Numerical Form"
+linktitle: "1: What to Measure? How to Measure?"
+date: "2020-10-20"
+read_date: "2020-10-20"
+menu:
+  reading:
+    parent: Readings
+    weight: 1
+type: docs
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required
+
+- The [syllabus](/syllabus/) and [assignments](/assignment/) pages for this class
+- <i class="fas fa-book"></i> Chapter 5 in *Practical Research Methods for Nonprofit and Public Administrators* [@stats-text]

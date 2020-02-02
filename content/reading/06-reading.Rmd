@@ -1,0 +1,17 @@
+---
+title: "Analysis of Variance (ANOVA) and Simple Regression"
+linktitle: "6: ANOVA and Simple Regression"
+date: "2020-11-24"
+read_date: "2020-11-24"
+menu:
+  reading:
+    parent: Readings
+    weight: 6
+type: docs
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required
+
+- <i class="fas fa-book"></i> Chapter 13 in *Essential Statistics for Public Managers and Policy Analysts.* [@berman-wang] This is available on Blackboard.

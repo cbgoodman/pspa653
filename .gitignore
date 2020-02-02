@@ -1,16 +1,9 @@
+.Rproj.user
+.Rhistory
+.RData
+.Ruserdata
 .DS_Store
-public
-yugo
-.oldgit
-static/css/hyde-min.css
-static/css/poole-min.css
-static/css/stylesheet-min.css
-static/css/stylesheet.css
-static/css/syntax-min.css
-hugo-server.sh
-new-post.sh
+public/*
+private/*
+resources/_gen/images/*
 deploy.sh
-
-## git starred
-layouts/shortcodes/ghStarred.html
-content/data/github

@@ -1,4 +1,6 @@
 # PSPA 653 - Intermediate Public and Nonprofit Financial Management
 
+This repository contains the code for generating [pspa653.cgoodman.com](https://pspa653.cgoodman.com). The content is updated to the most recent version of the course (currently fall 2020).
+
 ## Theme
-The theme is a mildly modified version of [Andrew Heiss'](https://github.com/andrewheiss/) `ath-tufte-hugo` theme. See the `ath-tufte-hugo` [repository](https://github.com/andrewheiss/ath-tufte-hugo_18-19) for more information.
+Various hugo and blogdown features borrowed more or less directly from [Andrew Heiss](https://www.andrewheiss.com) and his excellent [teaching](https://statsf18.classes.andrewheiss.com/) and [class](https://econw19.classes.andrewheiss.com/) [websites](https://datavizf18.classes.andrewheiss.com/).

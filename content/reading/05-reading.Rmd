@@ -1,0 +1,17 @@
+---
+title: "How to Test the Difference between Two Groups"
+linktitle: "5: How to Test the Difference between Two Groups"
+date: "2020-11-17"
+read_date: "2020-11-17"
+menu:
+  reading:
+    parent: Readings
+    weight: 5
+type: docs
+bibliography: ../../static/bib/references.bib
+csl: ../../static/bib/chicago-fullnote-bibliography-no-bib.csl
+---
+
+## Required
+
+- <i class="fas fa-book"></i> Chapter 13 in *Applied Statistics for Public and Nonprofit Administration* [@meier-etal]
